@@ -1,0 +1,35 @@
+-
+# 0 Replay the alloctest allocation sequence
+a 10
+a 10
+a 0
+a 4
+a 4
+a 4
+l
+u 0
+u 1
+u 2
+u 3
+u 4
+u 5
+u 6
+u 7
+u 8
+u 9
+u 10
+p
+# 1
+d 3
+d 4
+p
+# 2
+d 5
+p
+# 3
+d 2
+p
+# 4
+d 0
+d 1
+p

@@ -1,0 +1,6 @@
+pa4
+*.o
+cscope.out
+alloc-result
+free-result
+full-result
